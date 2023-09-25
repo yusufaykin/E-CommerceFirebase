@@ -26,7 +26,7 @@ This project is a simple e-commerce website built using React and Firebase. It a
 - Node.js
 - npm (Node Package Manager)
 
-# Screenshots
+# Gif
 
 <img src="/capture.gif">
 
